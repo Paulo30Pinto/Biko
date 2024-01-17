@@ -1,0 +1,1 @@
+declare module "*.jpg"; // para o reconhecimento da extensão .jpg
